@@ -1,19 +1,19 @@
 const ProductCard = () => {
   const products = [
     {
-      image: "/public/assets/Building.svg",
+      image: "/assets/Building.svg",
       title: "Container Body Build & Installation",
     },
     {
-      image: "/public/assets/Building.svg",
+      image: "/assets/Building.svg",
       title: "Industrial Dump Truck Body Engineering",
     },
     {
-      image: "/public/assets/Building.svg",
+      image: "/assets/Building.svg",
       title: "Tanker Fabrication and Installation",
     },
     {
-      image: "/public/assets/Building.svg",
+      image: "/assets/Building.svg",
       title: "Trailer Chassis & Body Engineering",
     },
   ];

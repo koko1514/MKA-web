@@ -1,9 +1,9 @@
 const logos = [
-  { src: "/public/assets/PT.SCN.svg", alt: "SCN" },
-  { src: "/public/assets/PT.PRIA.svg", alt: "PRIA" },
-  { src: "/public/assets/PT.BS.png", alt: "BS" },
-  { src: "/public/assets/PT.ASM.png", alt: "ASM" },
-  { src: "/public/assets/PT.AminTrans.jpg", alt: "Amin Trans" },
+  { src: "/assets/PT.SCN.svg", alt: "SCN" },
+  { src: "/assets/PT.PRIA.svg", alt: "PRIA" },
+  { src: "/assets/PT.BS.png", alt: "BS" },
+  { src: "/assets/PT.ASM.png", alt: "ASM" },
+  { src: "/assets/PT.AminTrans.jpg", alt: "Amin Trans" },
 ];
 
 const Partner = () => {

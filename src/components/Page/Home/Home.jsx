@@ -80,7 +80,7 @@ const Home = () => {
 
             {/* Image */}
             <img
-              src="/public/assets/laptop.png" // ganti dengan path gambar kamu
+              src="/assets/laptop.png" // ganti dengan path gambar kamu
               alt="Technology Devices"
               className="w-[70%] relative ml-30 object-contain"
             />

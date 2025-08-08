@@ -4,13 +4,13 @@ const LatestProduct = () => {
        {
          id: 1,
          name: "Custom Mini Bus",
-         image: "/public/assets/Building.svg",
+         image: "/assets/Building.svg",
          description: "A fully customized mini bus for executive travel.",
        },
        {
          id: 2,
          name: "Aluminum Box Truck",
-         image: "/public/assets/Building.svg",
+         image: "/assets/Building.svg",
          description: "Durable and lightweight aluminum box for logistics.",
        },
      ];

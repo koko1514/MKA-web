@@ -51,7 +51,7 @@ const AboutUs = () => {
           {/* Image */}
           <div className="md:w-1/2 relative">
             <img
-              src="/public/assets/Building.svg"
+              src="/assets/Building.svg"
               alt="Building CV MKA"
               className="w-[45%] mx-auto rounded transform rotate-[-3deg] shadow-lg object-cover h-50"
             />
@@ -64,7 +64,7 @@ const AboutUs = () => {
           {/* Left Image */}
           <div className="w-full md:w-1/2 flex justify-center">
             <img
-              src="/public/assets/Building.svg"
+              src="/assets/Building.svg"
               alt=""
               className="w-[80%] max-w-md rounded transform shadow-lg object-cover"
             />
